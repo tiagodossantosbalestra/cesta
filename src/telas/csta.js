@@ -1,5 +1,5 @@
 iport react from "react";
-import Cesta from './'
+import {text} from "react-native";
 
 export default function Cesta(){
     return<>
