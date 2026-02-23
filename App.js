@@ -8,6 +8,7 @@ export default function App() {
       <Sobrenome sobrenome="dos" />
       <Sobrenome sobrenome="Santos" />
       <Sobrenome sobrenome="Balestra" />
+      <Cesta/>
     </SafeAreaView>  
     
   );
