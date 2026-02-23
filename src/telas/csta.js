@@ -1,5 +1,7 @@
-iport react from "react";
-import {text} from "react-native";
+import react from "react";
+import {Text,Image} from "react-native";
+
+import topo from'../../assets/topo.png';
 
 export default function Cesta(){
     return<>
