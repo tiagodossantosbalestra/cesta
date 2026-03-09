@@ -46,6 +46,7 @@ const estilos = StyleSheet.create({
             fontSize: 16,
             lineHeight: 26,
         },
-        descricao:"#a3a3a3",
+        descricao:{
+            color:"#a3a3a3",
 
 })

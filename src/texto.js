@@ -9,4 +9,9 @@ export default function Texto({children,style}){
     RETURN<Text style={[style, estilo]}>{children}</Text>
 }
 
-const estilos = StyleSheet.create({}
+const estilos = StyleSheet.create({
+    
+
+
+
+}
